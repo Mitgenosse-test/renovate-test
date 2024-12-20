@@ -1,0 +1,1 @@
+console.log("Wacht auf, Verdammte dieser Erde!");
